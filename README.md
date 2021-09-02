@@ -1,4 +1,4 @@
-# Meat - Angular App Starter
+# Meat - Angular App Starter - Acompanhando o curso de https://github.com/cod3rcursos/meat-app-starter.git
 
 ## 1. Passos para começar
 
